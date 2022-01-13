@@ -1,0 +1,5 @@
+firstname Artsiom
+lastname Nalivaika-Vakulchik  
+age 26 
+npets 2
+salary 1000 usd
