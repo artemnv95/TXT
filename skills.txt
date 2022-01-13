@@ -1,0 +1,10 @@
+Skills:
+1)Postman
+2)Android Studio
+3)Charles
+4)Linux terminal
+5)SQL
+6)Git
+7)Jmeter
+8)Scrum
+9)Python

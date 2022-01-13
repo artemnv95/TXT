@@ -1,0 +1,5 @@
+favorite_movie 1+1
+favorite_series Everybody hates Chris
+favorite_food Burger
+favorite_season Summer
+country_to_visit Norway
